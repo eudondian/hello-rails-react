@@ -29,9 +29,9 @@ gem 'stimulus-rails'
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem 'jbuilder'
 
+gem 'foreman'
 gem 'react_on_rails'
 gem 'shakapacker'
-gem 'foreman'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
